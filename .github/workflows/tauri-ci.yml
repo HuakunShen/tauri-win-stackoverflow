@@ -67,4 +67,3 @@ jobs:
           releaseDraft: true
           prerelease: false
           args: ${{ matrix.settings.args }}
-          projectPath: "./apps/nuxt-desktop"
