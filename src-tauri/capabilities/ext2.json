@@ -3,7 +3,7 @@
   "identifier": "ext-capability",
   "description": "Capability for the extension window",
   "windows": [
-    "ext*"
+    "ext2*"
   ],
   "remote": {
     "urls": [
