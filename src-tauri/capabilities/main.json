@@ -37,7 +37,6 @@
       "log:default",
       "global-shortcut:default",
       "fs:default",
-      "updater:default",
       "os:default",
       "shell:allow-open",
       "log:allow-log",
